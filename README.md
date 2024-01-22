@@ -1,6 +1,9 @@
 # config.nvim
 
-A minimalistic neovim config inspired by Lunarvim, Nvchad &amp; LazyVim, written in Lua
+A minimalistic neovim config inspired by Lunarvim, Nvchad &amp; LazyVim, written in Lua.
+
+## Archived
+This is my old config, new config is in my dotfiles repository - [here](https://github.com/Prathamesh-Chavan-232/dotfiles). This config felt messy as I improved at configuring linux & it didn't have lazyloading and proper file structure. So I started from scrath again.
 
 ## Try out this config
 
